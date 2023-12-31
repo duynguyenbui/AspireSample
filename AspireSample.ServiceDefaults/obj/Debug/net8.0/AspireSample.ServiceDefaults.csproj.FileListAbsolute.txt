@@ -1,0 +1,12 @@
+/Users/buiduynguyen/Documents/Jetbrains_C_Sharp/AspireSample/AspireSample.ServiceDefaults/bin/Debug/net8.0/AspireSample.ServiceDefaults.deps.json
+/Users/buiduynguyen/Documents/Jetbrains_C_Sharp/AspireSample/AspireSample.ServiceDefaults/bin/Debug/net8.0/AspireSample.ServiceDefaults.dll
+/Users/buiduynguyen/Documents/Jetbrains_C_Sharp/AspireSample/AspireSample.ServiceDefaults/bin/Debug/net8.0/AspireSample.ServiceDefaults.pdb
+/Users/buiduynguyen/Documents/Jetbrains_C_Sharp/AspireSample/AspireSample.ServiceDefaults/obj/Debug/net8.0/AspireSample.ServiceDefaults.csproj.AssemblyReference.cache
+/Users/buiduynguyen/Documents/Jetbrains_C_Sharp/AspireSample/AspireSample.ServiceDefaults/obj/Debug/net8.0/AspireSample.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+/Users/buiduynguyen/Documents/Jetbrains_C_Sharp/AspireSample/AspireSample.ServiceDefaults/obj/Debug/net8.0/AspireSample.ServiceDefaults.AssemblyInfoInputs.cache
+/Users/buiduynguyen/Documents/Jetbrains_C_Sharp/AspireSample/AspireSample.ServiceDefaults/obj/Debug/net8.0/AspireSample.ServiceDefaults.AssemblyInfo.cs
+/Users/buiduynguyen/Documents/Jetbrains_C_Sharp/AspireSample/AspireSample.ServiceDefaults/obj/Debug/net8.0/AspireSample.ServiceDefaults.csproj.CoreCompileInputs.cache
+/Users/buiduynguyen/Documents/Jetbrains_C_Sharp/AspireSample/AspireSample.ServiceDefaults/obj/Debug/net8.0/AspireSample.ServiceDefaults.dll
+/Users/buiduynguyen/Documents/Jetbrains_C_Sharp/AspireSample/AspireSample.ServiceDefaults/obj/Debug/net8.0/refint/AspireSample.ServiceDefaults.dll
+/Users/buiduynguyen/Documents/Jetbrains_C_Sharp/AspireSample/AspireSample.ServiceDefaults/obj/Debug/net8.0/AspireSample.ServiceDefaults.pdb
+/Users/buiduynguyen/Documents/Jetbrains_C_Sharp/AspireSample/AspireSample.ServiceDefaults/obj/Debug/net8.0/ref/AspireSample.ServiceDefaults.dll
